@@ -1,6 +1,6 @@
 console.log("Hey we're in")
 
-const pokeMon = [
+const pokemons = [
     {
       id: 1,
       name: "bulbasaur",
@@ -67,11 +67,39 @@ const pokeMon = [
     }
 ]
 
+// Returns an array of EQUAL size of the array you are iterating over 
+// function makeComponents(){
+//     return pokemons.map(function(poke){
+//         const headerEl = document.createElement('h1').innerText = poke.name
+//          return headerEl
+//     })
+// }
 
-// .map()
+// console.log(makeComponents())
 
-// .filter()
+const filterPokes = type => pokemons.filter(poke => poke.type === type)
+console.log(filterPokes("water"))
 
 // .find()
 
 // .forEach()
+
+function fetchAndDisplayPokemon(){
+    //blah blah server call
+    pokemons.forEach(renderPoke)
+}
+
+function renderPoke(poke){
+    // create an element
+    const pokeImg = document.createElement('img')
+
+    // update that element with some data
+    pokeImg.src = poke.image
+    // tell the element to live on the DOM 
+    document.getElementById("image-box").appendChild(pokeImg)
+}
+
+
+fetchAndDisplayPokemon()
+
+
