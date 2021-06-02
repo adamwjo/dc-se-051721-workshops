@@ -1,0 +1,17 @@
+.navbar {
+  border-bottom: black 3px solid;
+  opacity: 0.8;
+}
+
+.main {
+  padding-top: 200px;
+}
+
+.list-group-item:hover {
+  background-color: #1f9bcf;
+  transform: translate(20px, -20px);
+}
+
+.list-group-item {
+  transition: 0.3s;
+}
