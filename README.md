@@ -5,3 +5,5 @@
 | Into to Git/Github & Iterators| [Video](https://youtu.be/5FcwyPNn6ZE) |
 | Fetch Dog CEO review 🐶| [Video](https://youtu.be/12kfScN1wXI) |
 | Intro to CSS 💅| [Video](https://youtu.be/LgaKGyANghQ) |
+| Thinking in React pt.1 🧑🏽‍💻| [Video](https://youtu.be/A79Lo_APftw) |
+
