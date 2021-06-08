@@ -1,8 +1,14 @@
 
+// Components
+import Nav from './Navbar'
+import MainContainer from './MainContainer'
+
+
 function App() {
   return (
     <h1>
-      Welcome to DOMMonsters 2.0
+      <Nav />
+      <MainContainer />
     </h1>
   );
 }
