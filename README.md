@@ -7,7 +7,7 @@
 | Intro to CSS 💅| [Video](https://youtu.be/LgaKGyANghQ) |
 | Thinking in React pt.1 🧑🏽‍💻| [Video](https://youtu.be/A79Lo_APftw) |
 | Thinking in React pt.2 🖥| [Video](https://youtu.be/PBII-gH2epA) |
-| useEffect and Forms | [Video](https://youtu.be/z4tAtdhW31U) |
+| useEffect and Forms | [Video](https://youtu.be/2YA13czhTBk) |
 
 
 
