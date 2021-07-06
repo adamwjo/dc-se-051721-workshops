@@ -9,7 +9,6 @@
 | Thinking in React pt.2 🖥       | [Video](https://youtu.be/PBII-gH2epA) |
 | useEffect and Forms            | [Video](https://youtu.be/z4tAtdhW31U) |
 | Sushi Saga pt.1 🍣             | [Video](https://youtu.be/l_WomzBD_6I) |
-| Intro to Associations            | [Video](https://youtu.be/QgJ6X3P1U4s) |
+| Intro to Associations          | [Video](https://youtu.be/QgJ6X3P1U4s) |
 | Object Associations            | [Video](https://youtu.be/uy6U4uSIaNk) |
-
-
+| Databases and Migrations       | [Video](https://youtu.be/QDlvuRse5xc) |
