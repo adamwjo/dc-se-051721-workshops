@@ -12,3 +12,4 @@
 | Intro to Associations          | [Video](https://youtu.be/QgJ6X3P1U4s) |
 | Object Associations            | [Video](https://youtu.be/uy6U4uSIaNk) |
 | Databases and Migrations       | [Video](https://youtu.be/QDlvuRse5xc) |
+| Intro to React Context API      | [Video](https://youtu.be/kVqPDN8cKY8) |
