@@ -5,3 +5,37 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+pokemon1 = Pokemon.create({
+    name: Brian, 
+    type: "grass", 
+    weight: 10, 
+    image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/#{rand(1..550)}.png"
+    })
+
+pokemon1 = Pokemon.create({
+    name: Kelly, 
+    type: "fighting", 
+    weight: 10, 
+    image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/#{rand(1..550)}.png"
+    })
+
+pokemon1 = Pokemon.create({
+    name: Ashley, 
+    type: "water", 
+    weight: 10, 
+    image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/#{rand(1..550)}.png"
+    })
+
+pokemon1 = Pokemon.create({
+    name: Luke, 
+    type: "fire", 
+    weight: 10, 
+    image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/#{rand(1..550)}.png"
+    })
+
+pokemon1 = Pokemon.create({
+    name: Carl, 
+    type: "grass", 
+    weight: 10, 
+    image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/#{rand(1..550)}.png"
+    })
