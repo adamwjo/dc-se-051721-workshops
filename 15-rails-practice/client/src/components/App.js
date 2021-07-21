@@ -15,6 +15,12 @@ export default class App extends Component {
     pokemons: []
   }
 
+  componentDidMount(){
+    fetch("http://localhost:3001/pokemons")
+      .then(r => r.json())
+      .then(data => this.setState({pokemons: data}))
+  }
+
   // Takes in a new pokemon object and adds it state
   createPokemon = (pokemonObj) => {
     this.setState({pokemons: [pokemonObj, ...this.state.pokemons]})
@@ -55,7 +61,7 @@ export default class App extends Component {
       <div className="bg-dark">
         <Navbar handleSearchText={this.handleSearchText} display={this.state.display} changeToHome={this.changeToHome} />
         { this.state.display === "Home" ? <Home changeToPokemon={this.changeToPokemon}/> : null }
-        { this.state.display === "Pokemon" ? <PokeContainer /> : null}
+        { this.state.display === "Pokemon" ? <PokeContainer pokemons={this.state.pokemons} /> : null}
       </div>
     )
   }
