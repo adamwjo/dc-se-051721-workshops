@@ -1,0 +1,2 @@
+class PokeballsController < ApplicationController
+end
