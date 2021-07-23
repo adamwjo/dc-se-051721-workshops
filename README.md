@@ -14,3 +14,4 @@
 | Databases and Migrations       | [Video](https://youtu.be/QDlvuRse5xc) |
 | Intro to React Context API     | [Video](https://youtu.be/kVqPDN8cKY8) |
 | Rails with React practice 🚅   | [Video](https://youtu.be/cOrZeHZk7aI) |
+| CC Practice                    | [Video](https://youtu.be/EvLip5fQRr8) |
