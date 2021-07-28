@@ -16,3 +16,4 @@
 | Rails with React practice 🚅   | [Video](https://youtu.be/cOrZeHZk7aI) |
 | CC Practice                    | [Video](https://youtu.be/EvLip5fQRr8) |
 | CC Practice Pt.2               | [Video](https://youtu.be/bywaSY4-mT4) |
+| Intro to AUTH                  | [Video](https://youtu.be/6gw5o9qrzkc) |
